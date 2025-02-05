@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { IoMdCheckbox } from "react-icons/io";
-
+// import './todo.css';
 import { MdDelete } from "react-icons/md";
 const Todo = () => {
 
